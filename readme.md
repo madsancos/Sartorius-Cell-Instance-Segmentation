@@ -45,6 +45,5 @@ Modelin ilk versiyonlarında, yeşil elma veya hücre dokusu üzerindeki **yapay
 
 **Serdar ÖNAL**  
 *İnşaat Mühendisi (20+ Yıl Deneyim) & Yapay Zeka Araştırmacısı*  
-*Derin Öğrenme ve Bilgisayarlı Görü Uzmanı*
 
 ---
